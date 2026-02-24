@@ -37,7 +37,7 @@ public class MagicLibrary {
 	 */
 	public static void main(String[] args) {
 		
-
+//Hola
 		log.info("Hola soy xxxx ejecutando la aplicación"); 
 
 		log.info("HOLA DESDE P8");
